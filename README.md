@@ -1,7 +1,7 @@
 # vector
 Custom implementation of C++20 std::vector.
 
->![CAUTION]
+>[!CAUTION]
 >Before building make sure to edit the `main.cpp` file in `src/`. You can use the vector from there. It's designed this way because this vector is not supposed to be used as a library, it was made as an exercise to see if I could actually finish a project.
 
 ## Building
